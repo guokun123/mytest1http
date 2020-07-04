@@ -11,7 +11,7 @@
         <module>ssm_model</module>
         <!--创建自动添加 删除的不会自动删除-->
         <!--<module>ssm_service</module>
-        <module>ssm_web</module>-->
+        <module>ssm_web</module>-->    
         <module>ssm_dao</module>
         <module>ssm_service</module>
         <module>ssm_web</module>
